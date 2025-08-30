@@ -1,0 +1,7 @@
+{
+  "name": " Meeting2",
+  "description": "A web-based application for managing meeting minutes and assigned tasks, featuring role-based access, task tracking, reporting dashboards, and AI-powered summarization.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
